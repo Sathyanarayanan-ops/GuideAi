@@ -2,7 +2,7 @@
 from google import genai
 from google.genai import types
 
-client = genai.Client(api_key='AIzaSyA3gCDCTFiC1PSAD3qPnDwBBfqqn1-UV5Y')
+client = genai.Client(api_key='')
 
 # This is where you define the persona and grounding behavior
 # system_prompt = """Generate a route for the user"""
